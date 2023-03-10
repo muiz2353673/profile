@@ -1,6 +1,6 @@
 # profile
 # 💫 About Me:
-🔭I only know the basics of programming<br>🌱 I’m currently learning solidity<br>💬 Ask me about <br>⚡ Fun fact it all started with "Hello world"
+🔭I only know the basics of programming<br>🌱 I’m currently doing bachelor's in computer science<br>💬 Ask me about <br>⚡ Fun fact it all started with "Hello world"
 
 
 ## 🌐 Socials:
